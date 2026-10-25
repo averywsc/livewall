@@ -1,0 +1,6 @@
+/target
+/dist
+/vendor/*
+!/vendor/README.txt
+/settings/gen
+/settings/ui/fonts/*.woff2
